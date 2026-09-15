@@ -1,7 +1,5 @@
 """
 Gold Price Analysis & Forecasting — Streamlit Dashboard
-Single-file app: data loading, feature engineering, and modeling all live here.
-Run with: streamlit run app.py
 """
 
 import pandas as pd
